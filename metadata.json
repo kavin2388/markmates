@@ -1,0 +1,6 @@
+{
+  "name": "Markmates Academic Platform",
+  "description": "Affordable education, ideal guidance, and concept-based preparation for competitive examinations and academic milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
